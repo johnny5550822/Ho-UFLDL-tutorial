@@ -1,6 +1,8 @@
 Ho-UFLDL-tutorial-exercises
 ========
 
+Note: If you like this repo, please give a "like" so that it can pop-up more in the search enginer and others can benefit from it. Thanks!
+
 Dr. Andrew Ng's UFLDL Tutorial(http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) is a great tutorial for learning neural network and deep learning techniques. It provies exercises in different areas. When I began the exercises, I found that it would be beneficial to have "answers" for comparation to ensure what I have programmed is correct. However, it is difficult to find appropriate sources. Therefore, I share my codes, aiming to provide some references for those who are very interested in learning Dr. Andrew Ng's tutorial. I cannot promise the code is 100% correct; I see it as an alternative reference for your benefits. 
 
 There is another related git repository:
